@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "D3MONSHAK1B.aternos.me",
+    "ip": "minnow.aternos.host:60080",
     "port": 60080,
     "version": "",
     "try-creative": false
